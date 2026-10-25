@@ -1,0 +1,4 @@
+USAGE tomodachi-life-pc
+tomodachi life pc. Ryujinx. Lime3DS.
+Extract. Run. See readme.
+Stamp rev-t6pk7r-20261025
